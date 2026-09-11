@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 14 |
+| 19 | 14 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (5)
+- [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [geometry](#geometry) (1)
@@ -23,7 +23,7 @@
 - [implementation](#implementation) (6)
 - [math](#math) (8)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (5)
 - [strings](#strings) (2)
 - [two pointers](#two-pointers) (4)
 
@@ -53,6 +53,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
@@ -127,6 +128,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
