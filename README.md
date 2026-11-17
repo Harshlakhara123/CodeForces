@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 16 |
+| 39 | 16 |
 
 ---
 
@@ -16,16 +16,16 @@
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (5)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (19)
+- [greedy](#greedy) (21)
 - [implementation](#implementation) (9)
 - [math](#math) (17)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (12)
+- [sortings](#sortings) (13)
 - [strings](#strings) (5)
 - [two pointers](#two-pointers) (9)
 
@@ -78,6 +78,7 @@
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
+| 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 
@@ -119,6 +120,8 @@
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
+| 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.cpp) |
+| 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1821B | [Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1821/B%20-%20Sort%20the%20Subarray/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
@@ -186,6 +189,7 @@
 |---|---------|------------|----------|
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
+| 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1827A | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1827/A%20-%20Counting%20Orders/solution.cpp) |
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.cpp) |
