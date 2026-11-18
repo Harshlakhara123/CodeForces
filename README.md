@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 16 |
+| 43 | 16 |
 
 ---
 
@@ -20,9 +20,9 @@
 - [data structures](#data-structures) (2)
 - [dp](#dp) (6)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (24)
+- [greedy](#greedy) (25)
 - [implementation](#implementation) (9)
-- [math](#math) (18)
+- [math](#math) (19)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (14)
@@ -122,6 +122,7 @@
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
+| 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.cpp) |
 | 1742D | [Coprime](https://codeforces.com/contest/1742/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1742/D%20-%20Coprime/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
@@ -161,6 +162,7 @@
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
+| 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.cpp) |
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 | 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.cpp) |
