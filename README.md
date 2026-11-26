@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 18 |
+| 55 | 18 |
 
 ---
 
@@ -15,18 +15,18 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (11)
+- [brute force](#brute-force) (12)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (9)
 - [data structures](#data-structures) (5)
-- [dp](#dp) (7)
+- [dp](#dp) (8)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (29)
-- [implementation](#implementation) (10)
+- [greedy](#greedy) (30)
+- [implementation](#implementation) (11)
 - [math](#math) (22)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (15)
+- [sortings](#sortings) (16)
 - [strings](#strings) (5)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (12)
@@ -75,6 +75,7 @@
 | 1821B | [Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1821/B%20-%20Sort%20the%20Subarray/solution.cpp) |
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.cpp) |
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 
 ### combinatorics
@@ -119,6 +120,7 @@
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 
 ### geometry
@@ -162,6 +164,7 @@
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 
 ### implementation
 
@@ -177,6 +180,7 @@
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 
 ### math
 
@@ -240,6 +244,7 @@
 | 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Harshlakhara123/CodeForces/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 
 ### strings
 
